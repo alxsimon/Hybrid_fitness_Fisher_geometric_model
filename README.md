@@ -1,6 +1,6 @@
 # Hybrid_fitness_Fisher_geometric_model
 
-Source code to simulate Fisher's geomtric model for two populations in allopatry, used afterwards to study the fitness of hybrids.
+Source code to simulate Fisher's geometric model for two populations in allopatry, used afterwards to study the fitness of hybrids.
 
 This code has been used for the paper:
 
