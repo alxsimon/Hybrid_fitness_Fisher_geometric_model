@@ -2,6 +2,10 @@
 
 Source code to simulate Fisher's geomtric model for two populations in allopatry, used afterwards to study the fitness of hybrids.
 
+This code has been used for the paper:
+
+* A. Simon, N. Bierne and J. J. Welch. "Coadapted genomes and selection on hybrids: Fisher’s geometric model explains a variety of empirical patterns". Evolution Letters, 2018.
+
 The C++ source code is the work of Christelle Fraïsse and colleagues and has been slightly modified to fit our framework:
 
 * C. Fraïsse, P. A. Gunnarsson, D. Roze, N. Bierne, and J. J. Welch. "The Genetics of Speciation: Insights from Fisher’s Geometric Model". Evolution 70, no. 7 (2016): 1450–64. https://doi.org/10.1111/evo.12968.
