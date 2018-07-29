@@ -1,0 +1,14 @@
+
+############### Set paths here ##################
+
+# Path to the GSL library
+PATH_GSL_LIB=/usr/lib/gsl-1.15/
+
+
+############### To compile ##################
+
+g++ -O3 *.cpp -o fgm -L$PATH_GSL_LIB -lgsl
+
+or
+
+g++ -O3 *.cpp -o fgm -L$PATH_GSL_LIB -lgsl -lgslcblas -lm
