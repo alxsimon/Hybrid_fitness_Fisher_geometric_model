@@ -4,7 +4,7 @@ Source code to simulate Fisher's geometric model for two populations in allopatr
 
 This code has been used for the paper:
 
-* A. Simon, N. Bierne and J. J. Welch. "Coadapted genomes and selection on hybrids: Fisher’s geometric model explains a variety of empirical patterns". Evolution Letters, 2018.
+* A. Simon, N. Bierne and J. J. Welch. "Coadapted genomes and selection on hybrids: Fisher’s geometric model explains a variety of empirical patterns". Evolution Letters, 2018. https://doi.org/10.1002/evl3.66
 
 The C++ source code is the work of Christelle Fraïsse and colleagues and has been slightly modified to fit our framework:
 
